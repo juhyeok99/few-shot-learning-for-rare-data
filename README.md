@@ -60,5 +60,5 @@ Plant data were carried out by web crawling.
 
 painting data was provided by wikiart.
 
-### ref
+### References
 [1]	Saleh, B.; Elgammal, M. Large-scale classification of fine-art paintings: Learning the right metric on the right feature. CoRR 2015, abs/1505.00855.
