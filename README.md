@@ -2,8 +2,10 @@
 Rare Data Image Classification System Using Few-Shot Learning
 
 Each source data is as follows.
-painting data: links
-plant data : https://github.com/juhyeok99/few-shot-learning-for-rare-data/tree/main/plant%20dataset/plant
+
+painting data: [links](https://www.kaggle.com/datasets/steubk/wikiart)
+
+plant data : [links](https://github.com/juhyeok99/few-shot-learning-for-rare-data/tree/main/plant%20dataset/plant)
 
 ## Abstract
 
