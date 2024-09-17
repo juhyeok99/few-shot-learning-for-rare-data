@@ -19,6 +19,8 @@ The dataset has been augmented by the augmentation system proposed in this paper
 
 ## data pre-processing
 
+**All data used in the experiment follow the following pretreatment.**
+
 ```
 normalization_layer = tf.keras.layers.Rescaling(1./255)
 
