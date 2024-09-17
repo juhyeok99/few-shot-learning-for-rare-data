@@ -3,7 +3,7 @@ Rare Data Image Classification System Using Few-Shot Learning
 
 Each source data is as follows.
 
-painting data: [links](https://www.kaggle.com/datasets/steubk/wikiart)
+painting data: [links](https://www.kaggle.com/datasets/steubk/wikiart)[1]
 
 plant data : [links](https://github.com/juhyeok99/few-shot-learning-for-rare-data/tree/main/plant%20dataset/plant)
 
@@ -59,3 +59,6 @@ Plant data were carried out by web crawling.
 ![image](https://github.com/user-attachments/assets/0582059e-a1ab-4bbc-b5ea-f6f1e1e8e089)
 
 painting data was provided by wikiart.
+
+### ref
+[1]	Saleh, B.; Elgammal, M. Large-scale classification of fine-art paintings: Learning the right metric on the right feature. CoRR 2015, abs/1505.00855.
