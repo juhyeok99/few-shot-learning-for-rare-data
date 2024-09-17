@@ -13,9 +13,22 @@ The dataset has been augmented by the augmentation system proposed in this paper
 
 ## data pre-processing
 
-'''
+```
 normalization_layer = tf.keras.layers.Rescaling(1./255)
-'''
+
+random_indices = random.sample(painting_indices, 1000)
+painting_subset = SubsetRandomSampler(random_indices)
+
+
+from sklearn.model_selection import train_test_split
+
+# Split the data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2)
+
+# Split the training data into train and validation sets
+X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.2)
+
+```
 
 **plant image**
 
