@@ -11,6 +11,12 @@ The dataset has been augmented by the augmentation system proposed in this paper
 
 [Lee, H.; Kim, H. Object edge-based image generation technique for constructing large-scale image datasets. J. IKEEE 2023, 27, 280–287]
 
+## data pre-processing
+
+'''
+normalization_layer = tf.keras.layers.Rescaling(1./255)
+'''
+
 **plant image**
 
 ![plant images](https://github.com/user-attachments/assets/cb2a76de-fbd3-4266-9682-42d2cfff0d81)
