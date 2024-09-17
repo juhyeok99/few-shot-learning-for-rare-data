@@ -10,3 +10,5 @@ Advances in deep learning can address a variety of computer vision problems. In 
 The dataset has been augmented by the augmentation system proposed in this paper.
 
 [Lee, H.; Kim, H. Object edge-based image generation technique for constructing large-scale image datasets. J. IKEEE 2023, 27, 280–287]
+
+https://github.com/juhyeok99/few-shot-learning-for-rare-data/blob/main/plant%20dataset/plant%20images.png
