@@ -11,4 +11,8 @@ The dataset has been augmented by the augmentation system proposed in this paper
 
 [Lee, H.; Kim, H. Object edge-based image generation technique for constructing large-scale image datasets. J. IKEEE 2023, 27, 280–287]
 
-https://github.com/juhyeok99/few-shot-learning-for-rare-data/blob/main/plant%20dataset/plant%20images.png
+**plant image**
+![plant images](https://github.com/user-attachments/assets/cb2a76de-fbd3-4266-9682-42d2cfff0d81)
+
+**painting image**
+![image](https://github.com/user-attachments/assets/0582059e-a1ab-4bbc-b5ea-f6f1e1e8e089)
