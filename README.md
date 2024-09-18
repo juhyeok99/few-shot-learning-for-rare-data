@@ -33,6 +33,8 @@ The dataset has been augmented by the augmentation system proposed in this paper
 ```
 normalization_layer = tf.keras.layers.Rescaling(1./255)
 
+#The process of selecting 1,000 pieces of painting data
+#Plant data is excluded because there are fewer data compared to painting data
 random_indices = random.sample(painting_indices, 1000)
 painting_subset = SubsetRandomSampler(random_indices)
 
