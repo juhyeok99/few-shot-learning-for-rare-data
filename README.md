@@ -42,9 +42,6 @@ from sklearn.model_selection import train_test_split
 # Split the data into train and test sets
 X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=0.2)
 
-# Split the training data into train and validation sets
-X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.2)
-
 ```
 
 **plant image**
