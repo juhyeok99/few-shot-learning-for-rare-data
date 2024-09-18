@@ -5,7 +5,7 @@ Each source data is as follows.
 
 painting data: [links](https://www.kaggle.com/datasets/steubk/wikiart)[1]
 
-plant data : [links](https://github.com/juhyeok99/few-shot-learning-for-rare-data/tree/main/plant%20dataset/plant)
+plant data : [links]([https://github.com/juhyeok99/few-shot-learning-for-rare-data/tree/main/plant%20dataset/plant](https://github.com/juhyeok99/few-shot-learning-for-rare-data/tree/main/plant%20dataset/plant%20source%20image))
 
 To confirm the relationship between the image classification performance and the amount of available data, we conducted tests with 1,500 and 100 samples. Plant data were collected through web crawling, matching the number of painting data entries, including 1,000, 500, and 100 samples. We then selected an appropriate number of data for effective image classification to evaluate performance in scenarios involving rare data.
 
